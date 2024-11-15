@@ -1,4 +1,4 @@
-module github.com/SchunckLeonardo/handling-events
+module github.com/SchunckLeonardo/go-rabbitmq
 
 go 1.23.2
 
